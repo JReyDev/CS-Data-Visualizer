@@ -14,7 +14,8 @@ Required Libraries:
 
 ## Purpose
 
-This was made to demonstrate what can be created using the CapitalSheets API.
+This was made to demonstrate what can be created using the CapitalSheets API, giving users a simple easy-to-use application.
+* This is still a WIP build, which may be missing features
 
 You can register for an account on [CapitalSheets](https://www.capitalsheets.com/register) and activate your account.
 
