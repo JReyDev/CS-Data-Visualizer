@@ -17,5 +17,12 @@ Required Libraries:
 This was made to demonstrate what can be created using the CapitalSheets API, giving users a simple easy-to-use application.
 * This is still a WIP build, new features will be added soon...
 
-You can register for an account on [CapitalSheets](https://www.capitalsheets.com/register) and activate your account.
+## Getting Started
 
+You can register for an account on [CapitalSheets](https://www.capitalsheets.com/register).
+
+After activating your account you can now login into the application.
+
+<image src='https://github.com/JReyDev/CS-Data-Visualizer/blob/main/images/LoginCSPage.png'>
+
+Your username is saved to config.config file in the directory of the application.
