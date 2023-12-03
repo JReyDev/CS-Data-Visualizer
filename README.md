@@ -17,6 +17,8 @@ Required Libraries:
 This was made to demonstrate what can be created using the CapitalSheets API, giving users a simple easy-to-use application.
 * This is still a WIP build, new features will be added soon...
 
+You can view the [API Documentation](https://www.capitalsheets.com/api_documentation)/api_documentation/) here
+
 ## Getting Started
 
 You can register for an account on [CapitalSheets](https://www.capitalsheets.com/register).
