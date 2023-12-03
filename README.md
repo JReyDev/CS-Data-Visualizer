@@ -9,3 +9,5 @@ Required Libraries:
 * HttpLib
 * Nlohmann Json
 * GLFW
+
+<image src='https://github.com/JReyDev/CS-Data-Visualizer/blob/main/images/Data%20Visual%20Label.png' >
