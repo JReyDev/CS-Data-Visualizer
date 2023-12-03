@@ -16,4 +16,5 @@ Required Libraries:
 
 This was made to demonstrate what can be created using the CapitalSheets API.
 
-You can register for an account on [CapitalSheets](https://www.capitalsheets.com/register)
+You can register for an account on [CapitalSheets](https://www.capitalsheets.com/register) and activate your account.
+
