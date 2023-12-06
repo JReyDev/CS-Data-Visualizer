@@ -1,4 +1,4 @@
-# CS-Data-Visualizer
+# CS-Desktop Data Visualizer
 CapitalSheets API data visualizer
 
 Required Libraries:
