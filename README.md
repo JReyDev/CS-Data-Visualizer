@@ -1,14 +1,14 @@
 # CS-Desktop Data Visualizer
 CapitalSheets API data visualizer
 
-Required Libraries:
+Minimum Required Libraries:
 
-* OpenSSL
-* ImGui
+* OpenSSL 3.2.0
+* ImGui 1.9.0
 * ImPlot
-* HttpLib
-* Nlohmann Json
-* GLFW
+* HttpLib 0.13.3
+* Nlohmann Json 3.11.2
+* GLFW 3.3.8f
 
 <image src='https://github.com/JReyDev/CS-Data-Visualizer/blob/main/images/Data%20Visual%20Label.png'>
 
