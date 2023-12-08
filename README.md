@@ -27,4 +27,4 @@ After activating your account you can now login into the application.
 
 <image src='https://github.com/JReyDev/CS-Data-Visualizer/blob/main/images/LoginCSPage.png'>
 
-Your username is saved to config.config file in the directory of the application.
+* Your username is saved to config.config file in the directory of the application.
